@@ -1,12 +1,17 @@
-# PureFront - Premium Frontend Landing Page
+# NuruLabs - Premium Frontend Landing Page
 
-A modern, high-converting, and lightning-fast landing page template designed for my **Frontend-Only Development Agency**. This project mimics the clean aesthetic, centered typography, and premium layout spacing of modern platforms, built entirely from scratch using **React** and **Tailwind CSS**.
+[![Deploy with Vercel](https://img.shields.io/badge/Deploy-Vercel-black?style=flat-square&logo=vercel)](https://react-c-1.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20Preview-orange?style=flat-square)](https://react-c-1.vercel.app/)
 
-## 🚀 Live Preview / Architecture
+A modern, high-converting, and lightning-fast landing page template designed for my **Frontend-Only Development Agency**. This project mimics the clean aesthetic, centered typography, and premium layout spacing of modern web experiences, built entirely using **React** and **Tailwind CSS**.
+
+🔗 **Live Deployment:** [react-c-1.vercel.app](https://react-c-1.vercel.app/)
+
+---
+
+## 🚀 Architecture & Structure
 
 The codebase is highly modular, split into four isolated functional components to ensure clean separation of concerns, scalability, and easy maintenance.
-
-### Project Structure
 
 ```text
 src/
