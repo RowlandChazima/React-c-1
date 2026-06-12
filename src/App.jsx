@@ -1,8 +1,8 @@
 import React from "react";
-import Navbar from "./components/Navbar";
-import Hero from "./components/hero";
-import Cards from "./components/cards";
-import Footer from "./components/footer";
+import Navbar from "../components/Navbar";
+import Hero from "../components/hero";
+import Cards from "../components/cards";
+import Footer from "../components/footer";
 
 export default function LandingPage() {
   return (
